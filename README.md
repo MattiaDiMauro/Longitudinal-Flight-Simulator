@@ -1,5 +1,5 @@
 # Longitudinal-Flight-Simulator
-Flight simulator in Python for comparing longitudinal flight dynamics of two aircraft (north American L-17 Navion and Boeing 747)
+Flight simulator in Python for comparing longitudinal flight dynamics of two aircraft (North American L-17 Navion and Boeing 747)
 
 ## Features
 - Linearized state-space models for both aircraft
